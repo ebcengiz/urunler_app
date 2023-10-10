@@ -1,16 +1,9 @@
 # urunler_app
 
-A new Flutter project.
+urunleri listeledigim bir uygulama.
 
-## Getting Started
+![Ekran görüntüsü 2023-10-10 145225](https://github.com/ebcengiz/urunler_app/assets/99767648/29af997d-53a6-4a7f-9112-2f5e349ee5f9)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran görüntüsü 2023-10-10 145242](https://github.com/ebcengiz/urunler_app/assets/99767648/352ad873-d142-464a-b67a-ed23ca86abde)
